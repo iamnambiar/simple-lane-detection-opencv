@@ -13,6 +13,6 @@ This repo contains python code to detect lane lines on the road using OpenCV.
 1. Clone the repository from Github to your local directory.
 2. Open the Terminal.
 3. Run the below command.
-'''
+```
 python3 lanes.py
-'''
+```
